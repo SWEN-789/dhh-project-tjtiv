@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ivtjt\\Documents\\School\\K6nele-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ivtjt\\Documents\\School\\K6nele-master\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4,5,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "99,159,222,55",
+                        "endColumns": "59,62,58,43",
+                        "endOffsets": "154,217,276,94"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,115,178,237",
+                        "endColumns": "59,62,58,43",
+                        "endOffsets": "110,173,232,276"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ivtjt\\Documents\\School\\K6nele-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ivtjt\\Documents\\School\\K6nele-master\\app\\src\\main\\res\\values-watch\\dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "62",
+                        "endOffsets": "113"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "92",
+                        "endColumns": "62",
+                        "endOffsets": "150"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ivtjt\\Documents\\School\\K6nele-master\\app\\src\\main\\res\\values-watch\\bools.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "36",
+                        "endOffsets": "87"
+                    }
+                }
+            ]
+        }
+    ]
+}
