@@ -1,0 +1,35 @@
+<!--Author: Thomas Tribunella
+    Quick shortcuts for sending preset phrases-->
+
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+    android:id="@+id/hello"
+    android:showAsAction="never"
+    android:title="Hello"/>
+    <item
+        android:id="@+id/whatsup"
+        android:showAsAction="never"
+        android:title="What's up?"/>
+    <item
+        android:id="@+id/how"
+        android:showAsAction="never"
+        android:title="How are you doing?"/>
+    <item
+        android:id="@+id/ok"
+        android:showAsAction="never"
+        android:title="Okay"/>
+    <item
+        android:id="@+id/good"
+        android:showAsAction="never"
+        android:title="I am good!"/>
+    <item
+        android:id="@+id/notgood"
+        android:showAsAction="never"
+        android:title="I'm not doing so good..."/>
+    <item
+        android:id="@+id/recenttext"
+        android:showAsAction="never"
+        android:title="No Text"/>
+
+</menu>
